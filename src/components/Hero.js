@@ -20,7 +20,7 @@ function Hero() {
         {/* right side  */}
         <div className="right">
           <div className="img-container">
-            <img src={crypto} alt="This is an image"></img>
+            <img src={crypto} alt="This is an xrypto"></img>
           </div>
         </div>
       </div>
