@@ -28,7 +28,7 @@ const handleclick=()=>{
                 </li>
             </ul>
             <div className='btn-group' prima="true">
-                <button className='btn'>Connect Wallet</button>
+                <button className='btn'>Connect</button>
             </div>
             <div className='hamburger' prima="true" onClick={handleclick} >
                 {click?(<FaTimes size={20} style={{color:'#333'}}/>) : (<FaBars size={20} style={{color:'#333'}}/>)}
